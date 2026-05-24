@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hireMe": "Hire me"
+  },
+  "hero": {
+    "greeting": "Hello!",
+    "intro": "I'm",
+    "firstName": "Shariff",
+    "role": "Product Marketing & Product Designer",
+    "tagline": "I help brands and products tell stories that convert through strategic marketing, thoughtful UI/UX, and design systems people love to use.",
+    "recommended": "Highly Recommended",
+    "years": "Years",
+    "experience": "Experience",
+    "portfolio": "Portfolio",
+    "cta": "Hire me",
+    "location": "Bugolobi, Kampala, Uganda"
+  },
+  "services": {
+    "titleStart": "My",
+    "titleAccent": "Services",
+    "subtitle": "End-to-end product design and marketing from discovery and brand to launch and growth.",
+    "items": {
+      "ux": {
+        "title": "UI / UX Design",
+        "desc": "Wireframes, prototypes, and pixel-polished interfaces — designed in Figma, informed by research."
+      },
+      "logo": {
+        "title": "Logo Design",
+        "desc": "Brand marks, monograms, and full identity systems that give products a distinct, memorable voice."
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "desc": "Data-dense interfaces and admin panels that turn complex information into clear decisions."
+      },
+      "mobile": {
+        "title": "Mobile Apps",
+        "desc": "iOS and Android product design onboarding flows, motion details, and polished launch-ready UI."
+      }
+    }
+  },
+  "experience": {
+    "titleStart": "My",
+    "titleAccent": "Work Experience",
+    "present": "Currently",
+    "roles": {
+      "kacyber_senior": {
+        "title": "Senior Product Marketing Officer",
+        "company": "KaCyber Technologies Ltd",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Aug 2025 – Present",
+        "description": "Leading marketing and product design teams, overseeing product strategy and guiding new product launches. Designing interfaces in Figma and driving brand consistency."
+      },
+      "kacyber_officer": {
+        "title": "Marketing Officer",
+        "company": "KaCyber Technologies Ltd",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Mar 2022 – Aug 2025",
+        "description": "Planned and executed campaigns for the KaCyber Go Card and digital ticketing system. Played a key role in the 2023 launch of the KaCyber Go Card."
+      },
+      "uzazi": {
+        "title": "Marketing Officer & Design Officer",
+        "company": "Uzazi Hub",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Jul 2024 – Present",
+        "description": "Lead marketing activities and visual branding. Design promotional materials and social content for our community of mothers."
+      },
+      "musadan": {
+        "title": "Digital Marketing & Web Development Specialist",
+        "company": "Musadan",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Oct 2024 – Present",
+        "description": "Manage Musadan's digital presence, design on-brand graphics, and maintain the public website. Contribute to light code development."
+      },
+      "primacy": {
+        "title": "Graphic Designer & Content Manager",
+        "company": "Primacy ICT Solutions",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Aug 2024 – Aug 2025",
+        "description": "Designed marketing materials, managed social media content, and ensured consistent brand messaging across campaigns."
+      },
+      "likana": {
+        "title": "Online Marketer",
+        "company": "Likana Safaris Uganda",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Jan 2023 – Mar 2023",
+        "description": "Built digital marketing campaigns promoting tour packages and safari experiences. Ran targeted ads and analyzed performance."
+      },
+      "sumic": {
+        "title": "Graphic Designer",
+        "company": "Sumic ICT Solutions",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Oct 2022 – Feb 2023",
+        "description": "Designed banners, flyers, product catalogs, and social media graphics that supported the company's marketing campaigns."
+      }
+    }
+  },
+  "whyHireMe": {
+    "titleStart": "Why",
+    "titleAccent": "Hire me",
+    "body": "Five years across product marketing and design I have launched flagship products, shaped brand identities, and shipped digital experiences that drive measurable growth. I move fast, design with intent, and write so users actually want to read.",
+    "stat1": "Project Completed",
+    "stat2": "Happy Clients",
+    "stat3": "Years of Experience",
+    "downloadResume": "Download Resume"
+  },
+  "projects": {
+    "titleStart": "Let's have a look at",
+    "titleMiddle": "my",
+    "titleAccent": "Portfolio",
+    "seeAll": "See All",
+    "items": {
+      "ictCards": {
+        "title": "National ICT Innovation Hub Access Cards",
+        "description": "Designed the visitor access card system for the National ICT Innovation Hub front and back layouts, QR-based identity, and brand-aligned typography for a secure, professional credential.",
+        "tag1": "Card Design",
+        "tag2": "Brand System",
+        "tag3": "Print & Production"
+      },
+      "wegoApp": {
+        "title": "New weGo App for KaCyber",
+        "description": "Redesigned the weGo App with refreshed wallet, top-up, recharge and ticketing flows with a cleaner visual language and clearer hierarchy for conductors and operators.",
+        "tag1": "Product Design",
+        "tag2": "POS UI/UX",
+        "tag3": "Figma"
+      }
+    }
+  },
+  "testimonials": {
+    "titleStart": "Testimonials That",
+    "titleMiddle": "Speak to My",
+    "titleAccent": "Results",
+    "subtitle": "Trusted by colleagues, partners, and managers across product, design and engineering.",
+    "items": {
+      "hadijah": {
+        "name": "Kyampeire Hadijah",
+        "role": "Software Developer · PayPal Texas",
+        "quote": "Shariff blends product instincts with design polish. He launched our Go Card with a clarity of message and visual system that made marketing the product feel effortless."
+      },
+      "mariam": {
+        "name": "Kemigisha Mariam",
+        "role": "Environmental Engineer",
+        "quote": "Reliable, creative, and incredibly organized. Whether it's a campaign, a deck, or a website, Shariff ships work that genuinely moves the needle."
+      }
+    }
+  },
+  "discuss": {
+    "titleStart": "Have an Awesome Project Idea?",
+    "titleAccent": "Let's Discuss",
+    "placeholder": "Enter Email Address",
+    "send": "Send",
+    "badge1": "4.9/5 Average Ratings",
+    "badge2": "On-Winning Awards",
+    "badge3": "Certified Product Designer"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Marketing, design, and a love for telling product stories.",
+    "bio1": "I'm a Senior Product Marketing Officer with 5 years of experience across digital marketing, traditional marketing, product design, and product marketing. I help businesses develop and execute marketing strategies that drive growth, improve customer engagement, and strengthen brand presence.",
+    "bio2": "I design and prototype products in Figma, create on-brand marketing materials, and work fluently across Adobe Creative Suite, Canva, and modern marketing tools.",
+    "competenciesTitle": "Core Competencies",
+    "competencies": [
+      "Marketing strategy development and execution",
+      "Product design and product marketing",
+      "UI/UX design using Figma",
+      "Digital marketing (social, email, content)",
+      "Graphic design (Adobe Creative Suite, Canva)",
+      "Content creation (visual and written)",
+      "Data analysis and performance tracking",
+      "Budget management and cost optimization",
+      "Team collaboration and project coordination"
+    ],
+    "educationTitle": "Education",
+    "education": {
+      "degree": {
+        "title": "Bachelor of Business Computing",
+        "school": "Makerere University, Kampala",
+        "year": "2024"
+      },
+      "diploma": {
+        "title": "Diploma in Business Computing",
+        "school": "Makerere University Business School, Kampala",
+        "year": "2022"
+      }
+    },
+    "languagesTitle": "Languages",
+    "languages": {
+      "english": "English",
+      "rukiga": "Rukiga",
+      "luganda": "Luganda",
+      "swahili": "Swahili"
+    }
+  },
+  "tools": {
+    "eyebrow": "Toolkit",
+    "title": "Tools I Design & Ship With"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a project in mind or want to say hello? Send me a message.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "message": "Your Message",
+    "send": "Send Message",
+    "or": "Or reach out directly",
+    "phone": "Phone",
+    "location": "Location",
+    "emailLabel": "Email",
+    "validation": {
+      "required": "Please fill in your name, email and message before sending."
+    }
+  },
+  "footer": {
+    "connectStart": "Let's Connect",
+    "connectAccent": "there",
+    "about": "Senior Product Marketing Officer and UI/UX designer crafting brands and products that people use, share, and remember.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "subscribe": "Send an email",
+    "subscribeDesc": "Drop your email and get occasional notes on new work.",
+    "emailPlaceholder": "Email Address",
+    "rights": "All Rights Reserved.",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "whatsapp": {
+    "tooltip": "Chat with me on WhatsApp"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "sw": "Kiswahili",
+    "de": "Deutsch"
+  }
+}

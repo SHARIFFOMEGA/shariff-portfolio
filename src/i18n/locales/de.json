@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "home": "Start",
+    "about": "Über",
+    "services": "Leistungen",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "contact": "Kontakt",
+    "hireMe": "Beauftragen"
+  },
+  "hero": {
+    "greeting": "Hallo!",
+    "intro": "Ich bin",
+    "firstName": "Shariff",
+    "role": "Produktmarketing & UI/UX-Designer",
+    "tagline": "Ich helfe Marken und Produkten, Geschichten zu erzählen, die konvertieren — durch strategisches Marketing, durchdachtes UI/UX-Design und Designsysteme, die Menschen lieben.",
+    "recommended": "Sehr empfohlen",
+    "years": "Jahre",
+    "experience": "Erfahrung",
+    "portfolio": "Portfolio",
+    "cta": "Beauftragen",
+    "location": "Bugolobi, Kampala, Uganda"
+  },
+  "services": {
+    "titleStart": "Meine",
+    "titleAccent": "Leistungen",
+    "subtitle": "Komplettes Produktdesign und Marketing — von Discovery und Marke bis Launch und Wachstum.",
+    "items": {
+      "ux": {
+        "title": "UI / UX-Design",
+        "desc": "Wireframes, Prototypen und pixelgenaue Oberflächen — gestaltet in Figma, gestützt auf Recherche."
+      },
+      "logo": {
+        "title": "Logo-Design",
+        "desc": "Markenmarken, Monogramme und vollständige Identitätssysteme, die Produkten eine unverwechselbare Stimme geben."
+      },
+      "dashboard": {
+        "title": "Dashboard",
+        "desc": "Datenreiche Oberflächen und Admin-Panels, die komplexe Informationen in klare Entscheidungen verwandeln."
+      },
+      "mobile": {
+        "title": "Mobile Apps",
+        "desc": "iOS- und Android-Produktdesign — Onboarding-Flows, Motion-Details und launch-fertige UI."
+      }
+    }
+  },
+  "experience": {
+    "titleStart": "Meine",
+    "titleAccent": "Berufserfahrung",
+    "present": "Aktuell",
+    "roles": {
+      "kacyber_senior": {
+        "title": "Senior Product Marketing Officer",
+        "company": "KaCyber Technologies Ltd",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Aug. 2025 – Heute",
+        "description": "Leitung der Marketing- und Produktdesign-Teams, Produktstrategie und Launches. Designe Oberflächen in Figma und sichere Markenkonsistenz."
+      },
+      "kacyber_officer": {
+        "title": "Marketing Officer",
+        "company": "KaCyber Technologies Ltd",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "März 2022 – Aug. 2025",
+        "description": "Plante und führte Kampagnen für die KaCyber Go Card und das digitale Ticketsystem. Schlüsselrolle beim Launch 2023."
+      },
+      "uzazi": {
+        "title": "Marketing & Design Officer",
+        "company": "Uzazi Hub",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Juli 2024 – Heute",
+        "description": "Verantworte Marketingaktivitäten und visuelles Branding. Gestalte Werbematerialien und Social Content."
+      },
+      "musadan": {
+        "title": "Digital Marketing & Web Development Specialist",
+        "company": "Musadan",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Okt. 2024 – Heute",
+        "description": "Verwalte Musadans digitale Präsenz, gestalte markenkonforme Grafiken und pflege die Website."
+      },
+      "primacy": {
+        "title": "Grafikdesigner & Content Manager",
+        "company": "Primacy ICT Solutions",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Aug. 2024 – Aug. 2025",
+        "description": "Gestaltete Marketingmaterialien, betreute Social Media und sicherte eine konsistente Markenbotschaft."
+      },
+      "likana": {
+        "title": "Online-Marketer",
+        "company": "Likana Safaris Uganda",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Jan. 2023 – März 2023",
+        "description": "Entwickelte digitale Marketingkampagnen für Touren und Safaris, schaltete Anzeigen und analysierte Performance."
+      },
+      "sumic": {
+        "title": "Grafikdesigner",
+        "company": "Sumic Online",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Okt. 2022 – Feb. 2023",
+        "description": "Gestaltete Banner, Flyer, Produktkataloge und Social-Media-Grafiken für Marketingkampagnen."
+      }
+    }
+  },
+  "whyHireMe": {
+    "titleStart": "Warum",
+    "titleAccent": "mich beauftragen",
+    "body": "Fünf Jahre in Produktmarketing und Design — ich habe Flaggschiff-Produkte gelauncht, Markenidentitäten geformt und digitale Erlebnisse geliefert, die messbares Wachstum bringen.",
+    "stat1": "Abgeschlossene Projekte",
+    "stat2": "Glückliche Kunden",
+    "stat3": "Jahre Erfahrung",
+    "downloadResume": "Lebenslauf herunterladen"
+  },
+  "projects": {
+    "titleStart": "Werfen wir einen Blick auf",
+    "titleMiddle": "mein",
+    "titleAccent": "Portfolio",
+    "seeAll": "Alle ansehen",
+    "items": {
+      "ictCards": {
+        "title": "Zugangskarten für den National ICT Innovation Hub",
+        "description": "Design des Besucherkarten-Systems für den National ICT Innovation Hub — Vorder- und Rückseiten-Layout, QR-basierte Identität und markenkonforme Typografie für ein sicheres, professionelles Ausweisdesign.",
+        "tag1": "Kartendesign",
+        "tag2": "Markensystem",
+        "tag3": "Print & Produktion"
+      },
+      "wegoApp": {
+        "title": "Neue weGo-App für KaCyber",
+        "description": "Redesign der weGo-POS-Anwendung für Sunmi V2s Terminals — überarbeitete Wallet-, Aufladung- und Ticketing-Flows mit klarerer Bildsprache und Hierarchie für Schaffner und Betreiber.",
+        "tag1": "Produktdesign",
+        "tag2": "POS UI/UX",
+        "tag3": "Figma"
+      }
+    }
+  },
+  "testimonials": {
+    "titleStart": "Stimmen, die für",
+    "titleMiddle": "meine",
+    "titleAccent": "Ergebnisse sprechen",
+    "subtitle": "Vertraut von Kolleg:innen, Partnern und Vorgesetzten in Produkt, Design und Engineering.",
+    "items": {
+      "hadijah": {
+        "name": "Kyampeire Hadijah",
+        "role": "Software Developer · KaCyber",
+        "quote": "Shariff verbindet Produktinstinkt mit Designqualität. Er hat unsere Go Card mit so klarer Botschaft gelauncht, dass das Marketing fast von selbst lief."
+      },
+      "mariam": {
+        "name": "Kemigisha Mariam",
+        "role": "Umweltingenieurin",
+        "quote": "Zuverlässig, kreativ und außergewöhnlich organisiert. Ob Kampagne, Deck oder Website — Shariff liefert Arbeit, die wirklich etwas bewegt."
+      }
+    }
+  },
+  "discuss": {
+    "titleStart": "Großartige Projektidee?",
+    "titleAccent": "Lass uns reden",
+    "placeholder": "E-Mail-Adresse eingeben",
+    "send": "Senden",
+    "badge1": "4,9/5 Durchschnittsbewertung",
+    "badge2": "Ausgezeichnete Arbeiten",
+    "badge3": "Zertifizierter Produktdesigner"
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Marketing, Design und die Liebe, Produktgeschichten zu erzählen.",
+    "bio1": "Ich bin Senior Product Marketing Officer mit 5 Jahren Erfahrung in digitalem Marketing, Produktdesign und Produktmarketing. Ich helfe Unternehmen, Strategien zu entwickeln und umzusetzen, die Wachstum fördern.",
+    "bio2": "Ich entwerfe und prototypisiere Produkte in Figma, erstelle markengerechte Marketingmaterialien und arbeite sicher mit Adobe Creative Suite, Canva und modernen Tools.",
+    "competenciesTitle": "Kernkompetenzen",
+    "competencies": [
+      "Entwicklung und Umsetzung von Marketingstrategien",
+      "Produktdesign und Produktmarketing",
+      "UI/UX-Design mit Figma",
+      "Digitales Marketing",
+      "Grafikdesign (Adobe Creative Suite, Canva)",
+      "Content-Erstellung",
+      "Datenanalyse",
+      "Budgetmanagement",
+      "Teamarbeit"
+    ],
+    "educationTitle": "Ausbildung",
+    "education": {
+      "degree": {
+        "title": "Bachelor in Business Computing",
+        "school": "Makerere University, Kampala",
+        "year": "2024"
+      },
+      "diploma": {
+        "title": "Diplom in Business Computing",
+        "school": "Makerere University Business School, Kampala",
+        "year": "2022"
+      }
+    },
+    "languagesTitle": "Sprachen",
+    "languages": {
+      "english": "Englisch",
+      "rukiga": "Rukiga",
+      "luganda": "Luganda",
+      "swahili": "Suaheli"
+    }
+  },
+  "tools": {
+    "eyebrow": "Toolkit",
+    "title": "Werkzeuge, mit denen ich gestalte"
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Haben Sie ein Projekt im Kopf oder möchten Sie Hallo sagen? Schreiben Sie mir.",
+    "name": "Ihr Name",
+    "email": "Ihre E-Mail",
+    "subject": "Betreff",
+    "message": "Ihre Nachricht",
+    "send": "Nachricht senden",
+    "or": "Oder direkt erreichen",
+    "phone": "Telefon",
+    "location": "Standort",
+    "emailLabel": "E-Mail",
+    "validation": {
+      "required": "Bitte geben Sie Namen, E-Mail und Nachricht ein."
+    }
+  },
+  "footer": {
+    "connectStart": "Lass uns verbinden",
+    "connectAccent": "hier",
+    "about": "Senior Product Marketing Officer und UI/UX-Designer, der Marken und Produkte gestaltet, die Menschen nutzen, teilen und im Gedächtnis behalten.",
+    "navigation": "Navigation",
+    "contact": "Kontakt",
+    "subscribe": "Neueste Informationen erhalten",
+    "subscribeDesc": "E-Mail eintragen und gelegentliche Notizen zu neuer Arbeit erhalten.",
+    "emailPlaceholder": "E-Mail-Adresse",
+    "rights": "Alle Rechte vorbehalten.",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutz"
+  },
+  "whatsapp": {
+    "tooltip": "Auf WhatsApp schreiben"
+  },
+  "language": {
+    "label": "Sprache",
+    "en": "English",
+    "sw": "Kiswahili",
+    "de": "Deutsch"
+  }
+}

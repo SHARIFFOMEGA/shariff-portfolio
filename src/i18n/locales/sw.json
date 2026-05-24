@@ -1,0 +1,248 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu",
+    "services": "Huduma",
+    "experience": "Uzoefu",
+    "projects": "Miradi",
+    "contact": "Wasiliana",
+    "hireMe": "Niajiri"
+  },
+  "hero": {
+    "greeting": "Habari!",
+    "intro": "Mimi ni",
+    "firstName": "Shariff",
+    "role": "Mbunifu wa Bidhaa na UI/UX",
+    "tagline": "Ninasaidia chapa kueleza hadithi zinazogeuza watumiaji kuwa wateja — kwa masoko ya kimkakati, ubunifu wa UI/UX wenye busara, na mifumo ya muundo inayopendwa.",
+    "recommended": "Inapendekezwa Sana",
+    "years": "Miaka",
+    "experience": "Uzoefu",
+    "portfolio": "Kazi Zangu",
+    "cta": "Niajiri",
+    "location": "Bugolobi, Kampala, Uganda"
+  },
+  "services": {
+    "titleStart": "Huduma",
+    "titleAccent": "Zangu",
+    "subtitle": "Ubunifu na masoko kamili — kutoka utafiti na chapa hadi uzinduzi na ukuaji.",
+    "items": {
+      "ux": {
+        "title": "UI / UX Design",
+        "desc": "Wireframes, prototypes, na miingiliano iliyokamilika — iliyobuniwa kwa Figma."
+      },
+      "logo": {
+        "title": "Ubunifu wa Nembo",
+        "desc": "Alama za chapa, monograms, na mifumo kamili ya utambulisho inayopa bidhaa sauti ya kukumbukwa."
+      },
+      "dashboard": {
+        "title": "Dashibodi",
+        "desc": "Miingiliano yenye data nyingi na paneli za usimamizi zinazogeuza taarifa ngumu kuwa maamuzi wazi."
+      },
+      "mobile": {
+        "title": "Programu za Simu",
+        "desc": "Ubunifu wa bidhaa za iOS na Android — mtiririko wa kuingiza, na UI iliyokamilika."
+      }
+    }
+  },
+  "experience": {
+    "titleStart": "Uzoefu",
+    "titleAccent": "wa Kazi Yangu",
+    "present": "Sasa hivi",
+    "roles": {
+      "kacyber_senior": {
+        "title": "Afisa Mkuu wa Masoko ya Bidhaa",
+        "company": "KaCyber Technologies Ltd",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Agosti 2025 – Sasa",
+        "description": "Ninaongoza timu za masoko na ubunifu wa bidhaa, nikisimamia mkakati wa bidhaa na uzinduzi wa bidhaa mpya."
+      },
+      "kacyber_officer": {
+        "title": "Afisa wa Masoko",
+        "company": "KaCyber Technologies Ltd",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Machi 2022 – Agosti 2025",
+        "description": "Nilipanga na kutekeleza kampeni za KaCyber Go Card na mfumo wa kidijitali wa tiketi. Nilishiriki kikamilifu uzinduzi wa 2023."
+      },
+      "uzazi": {
+        "title": "Afisa wa Masoko na Ubunifu",
+        "company": "Uzazi Hub",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Julai 2024 – Sasa",
+        "description": "Ninasimamia shughuli za masoko na uthabiti wa chapa. Ninabuni vifaa vya kukuza na maudhui ya jamii ya akina mama."
+      },
+      "musadan": {
+        "title": "Mtaalam wa Masoko ya Kidijitali na Maendeleo ya Tovuti",
+        "company": "Musadan",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Oktoba 2024 – Sasa",
+        "description": "Ninasimamia uwepo wa kidijitali wa Musadan, kubuni michoro, na kudumisha tovuti. Nachangia katika maendeleo ya msimbo."
+      },
+      "primacy": {
+        "title": "Mbunifu wa Picha na Msimamizi wa Maudhui",
+        "company": "Primacy ICT Solutions",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Agosti 2024 – Agosti 2025",
+        "description": "Nilibuni vifaa vya masoko, kusimamia maudhui ya mitandao, na kuhakikisha ujumbe thabiti wa chapa."
+      },
+      "likana": {
+        "title": "Mtaalam wa Masoko Mtandaoni",
+        "company": "Likana Safaris Uganda",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Januari 2023 – Machi 2023",
+        "description": "Niliendeleza kampeni za masoko ya kidijitali kukuza vifurushi vya utalii na safari, na kufuatilia utendakazi."
+      },
+      "sumic": {
+        "title": "Mbunifu wa Picha",
+        "company": "Sumic Online",
+        "location": "Kampala, Uganda",
+        "locationShort": "Kampala",
+        "period": "Oktoba 2022 – Februari 2023",
+        "description": "Nilibuni mabango, vipeperushi, katalogi, na michoro ya mitandao ya kijamii iliyounga mkono kampeni."
+      }
+    }
+  },
+  "whyHireMe": {
+    "titleStart": "Kwa nini",
+    "titleAccent": "Niajiri",
+    "body": "Miaka mitano katika masoko na ubunifu wa bidhaa — nimezindua bidhaa muhimu, nimeunda utambulisho wa chapa, na kutoa uzoefu wa kidijitali unaoongeza ukuaji.",
+    "stat1": "Miradi Iliyokamilika",
+    "stat2": "Wateja Wenye Furaha",
+    "stat3": "Miaka ya Uzoefu",
+    "downloadResume": "Pakua Wasifu"
+  },
+  "projects": {
+    "titleStart": "Hebu tuangalie",
+    "titleMiddle": "kazi zangu kwenye",
+    "titleAccent": "Portfolio",
+    "seeAll": "Tazama Zote",
+    "items": {
+      "ictCards": {
+        "title": "Kadi za Ufikiaji za National ICT Innovation Hub",
+        "description": "Nilibuni mfumo wa kadi za wageni kwa National ICT Innovation Hub — mpangilio wa mbele na nyuma, utambulisho wa QR, na uchapaji unaolingana na chapa kwa kitambulisho salama na cha kitaalamu.",
+        "tag1": "Ubunifu wa Kadi",
+        "tag2": "Mfumo wa Chapa",
+        "tag3": "Uchapishaji"
+      },
+      "wegoApp": {
+        "title": "Programu Mpya ya weGo kwa KaCyber",
+        "description": "Nilibuni upya programu ya POS ya weGo inayoendeshwa kwenye vifaa vya Sunmi V2s — niliboresha mtiririko wa pochi, kuongeza salio, na utoaji tiketi kwa lugha safi ya kuona kwa makondakta na waendeshaji.",
+        "tag1": "Ubunifu wa Bidhaa",
+        "tag2": "UI/UX ya POS",
+        "tag3": "Figma"
+      }
+    }
+  },
+  "testimonials": {
+    "titleStart": "Maoni Yanayozungumza",
+    "titleMiddle": "kuhusu",
+    "titleAccent": "Matokeo Yangu",
+    "subtitle": "Niliyeaminika na wenzangu, washirika, na wasimamizi katika bidhaa, ubunifu na uhandisi.",
+    "items": {
+      "hadijah": {
+        "name": "Kyampeire Hadijah",
+        "role": "Mhandisi wa Programu · KaCyber",
+        "quote": "Shariff anachanganya ufahamu wa bidhaa na ubora wa ubunifu. Alizindua Go Card yetu kwa uwazi wa ujumbe na mfumo wa kuona uliofanya masoko yawe rahisi."
+      },
+      "mariam": {
+        "name": "Kemigisha Mariam",
+        "role": "Mhandisi wa Mazingira",
+        "quote": "Anategemewa, mbunifu, na mwenye mpangilio mzuri. Iwe ni kampeni, deki, au tovuti, Shariff hutoa kazi inayoleta matokeo."
+      }
+    }
+  },
+  "discuss": {
+    "titleStart": "Una wazo zuri la mradi?",
+    "titleAccent": "Tujadili",
+    "placeholder": "Weka Anwani ya Barua Pepe",
+    "send": "Tuma",
+    "badge1": "Wastani wa Ukadiriaji 4.9/5",
+    "badge2": "Tuzo Zinazoshindwa",
+    "badge3": "Mbunifu wa Bidhaa Aliyethibitishwa"
+  },
+  "about": {
+    "title": "Kuhusu Mimi",
+    "subtitle": "Masoko, ubunifu, na upendo wa kusimulia hadithi za bidhaa.",
+    "bio1": "Mimi ni Afisa Mkuu wa Masoko ya Bidhaa mwenye miaka 5 ya uzoefu katika masoko ya kidijitali, ubunifu wa bidhaa, na masoko ya bidhaa. Ninasaidia biashara kuendeleza na kutekeleza mikakati ya masoko inayoongeza ukuaji.",
+    "bio2": "Ninabuni na kuunda prototypes katika Figma, kutengeneza vifaa vya masoko, na kufanya kazi katika Adobe Creative Suite, Canva, na zana za kisasa.",
+    "competenciesTitle": "Ujuzi Mkuu",
+    "competencies": [
+      "Maendeleo na utekelezaji wa mkakati wa masoko",
+      "Ubunifu wa bidhaa na masoko ya bidhaa",
+      "Ubunifu wa UI/UX kwa Figma",
+      "Masoko ya kidijitali",
+      "Ubunifu wa picha (Adobe Creative Suite, Canva)",
+      "Uundaji wa maudhui",
+      "Uchambuzi wa data",
+      "Usimamizi wa bajeti",
+      "Ushirikiano wa timu"
+    ],
+    "educationTitle": "Elimu",
+    "education": {
+      "degree": {
+        "title": "Shahada ya Kompyuta ya Biashara",
+        "school": "Chuo Kikuu cha Makerere, Kampala",
+        "year": "2024"
+      },
+      "diploma": {
+        "title": "Diploma ya Kompyuta ya Biashara",
+        "school": "Shule ya Biashara ya Makerere, Kampala",
+        "year": "2022"
+      }
+    },
+    "languagesTitle": "Lugha",
+    "languages": {
+      "english": "Kiingereza",
+      "rukiga": "Kirukiga",
+      "luganda": "Kiganda",
+      "swahili": "Kiswahili"
+    }
+  },
+  "tools": {
+    "eyebrow": "Zana",
+    "title": "Zana Ninazotumia"
+  },
+  "contact": {
+    "title": "Wasiliana Nami",
+    "subtitle": "Una mradi akilini au unataka kusalimia? Nitumie ujumbe.",
+    "name": "Jina Lako",
+    "email": "Barua Pepe Yako",
+    "subject": "Mada",
+    "message": "Ujumbe Wako",
+    "send": "Tuma Ujumbe",
+    "or": "Au wasiliana moja kwa moja",
+    "phone": "Simu",
+    "location": "Mahali",
+    "emailLabel": "Barua Pepe",
+    "validation": {
+      "required": "Tafadhali jaza jina, barua pepe na ujumbe."
+    }
+  },
+  "footer": {
+    "connectStart": "Hebu Tuwasiliane",
+    "connectAccent": "hapa",
+    "about": "Afisa Mkuu wa Masoko ya Bidhaa na mbunifu wa UI/UX anayetengeneza chapa na bidhaa zinazotumika, zinazoshirikishwa, na zinazokumbukwa.",
+    "navigation": "Urambazaji",
+    "contact": "Wasiliana",
+    "subscribe": "Pata taarifa za hivi karibuni",
+    "subscribeDesc": "Weka barua pepe yako upate habari za kazi mpya.",
+    "emailPlaceholder": "Anwani ya barua pepe",
+    "rights": "Haki Zote Zimehifadhiwa.",
+    "terms": "Sheria",
+    "privacy": "Sera ya Faragha"
+  },
+  "whatsapp": {
+    "tooltip": "Niandikie kwenye WhatsApp"
+  },
+  "language": {
+    "label": "Lugha",
+    "en": "English",
+    "sw": "Kiswahili",
+    "de": "Deutsch"
+  }
+}
