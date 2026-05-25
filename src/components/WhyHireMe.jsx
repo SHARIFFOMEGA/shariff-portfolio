@@ -1,7 +1,7 @@
 import { Box, Typography, Button, Stack, useTheme } from '@mui/material';
 import DownloadIcon from '@mui/icons-material/FileDownloadOutlined';
 import { useTranslation } from 'react-i18next';
-import { CONTACT, WHY_HIRE_PHOTO_CANDIDATES, PLACEHOLDER_PHOTO } from '../data/portfolio.js';
+import { CONTACT, WHY_HIRE_PHOTO_CANDIDATES } from '../data/portfolio.js';
 import { palette } from '../theme/theme.js';
 import useProfilePhoto from '../hooks/useProfilePhoto.js';
 
@@ -130,11 +130,6 @@ const WhyHireMe = () => {
               component="img"
               src={photoSrc}
               alt="Shariff Nahurira"
-              onError={(e) => {
-                if (e.currentTarget.src !== PLACEHOLDER_PHOTO) {
-                  e.currentTarget.src = PLACEHOLDER_PHOTO;
-                }
-              }}
               sx={{
                 width: '100%',
                 height: '100%',

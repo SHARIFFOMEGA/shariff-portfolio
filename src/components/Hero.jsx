@@ -3,7 +3,7 @@ import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
 import FormatQuoteIcon from '@mui/icons-material/FormatQuote';
 import { Link as ScrollLink } from 'react-scroll';
 import { useTranslation } from 'react-i18next';
-import { CONTACT, HERO_PHOTO_CANDIDATES, PLACEHOLDER_PHOTO } from '../data/portfolio.js';
+import { CONTACT, HERO_PHOTO_CANDIDATES } from '../data/portfolio.js';
 import { palette } from '../theme/theme.js';
 import useProfilePhoto from '../hooks/useProfilePhoto.js';
 
@@ -234,8 +234,6 @@ const Hero = () => {
               component="img"
               src={photoSrc}
               alt="Shariff Nahurira"
-              onError={(e) => {
-              }}
               sx={{
                 width: '100%',
                 height: '100%',
