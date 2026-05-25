@@ -1,4 +1,4 @@
-import { Box, Typography, Button, Stack, Rating, useTheme } from '@mui/material';
+import { Box, Typography, Button, Rating, useTheme } from '@mui/material';
 import ArrowOutwardIcon from '@mui/icons-material/ArrowOutward';
 import FormatQuoteIcon from '@mui/icons-material/FormatQuote';
 import { Link as ScrollLink } from 'react-scroll';
@@ -48,11 +48,9 @@ const Hero = () => {
       sx={{
         position: 'relative',
         pt: { xs: 11, md: 12 },
-        pb: 0,
+        pb: { xs: 8, md: 5 },
         px: { xs: 2, md: 6 },
-        overflow: 'hidden',
-        height: { md: '100vh' },
-        minHeight: { xs: 'auto', md: 720 },
+        minHeight: { xs: 'auto', md: '100vh' },
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
