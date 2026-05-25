@@ -13,7 +13,7 @@
     "intro": "Mimi ni",
     "firstName": "Shariff",
     "role": "Mbunifu wa Bidhaa na UI/UX",
-    "tagline": "Ninasaidia chapa kueleza hadithi zinazogeuza watumiaji kuwa wateja — kwa masoko ya kimkakati, ubunifu wa UI/UX wenye busara, na mifumo ya muundo inayopendwa.",
+    "tagline": "Ninasaidia chapa kueleza hadithi zinazogeuza watumiaji kuwa wateja kwa masoko ya kimkakati, ubunifu wa UI/UX wenye busara, na mifumo ya muundo inayopendwa.",
     "recommended": "Inapendekezwa Sana",
     "years": "Miaka",
     "experience": "Uzoefu",
@@ -24,11 +24,11 @@
   "services": {
     "titleStart": "Huduma",
     "titleAccent": "Zangu",
-    "subtitle": "Ubunifu na masoko kamili — kutoka utafiti na chapa hadi uzinduzi na ukuaji.",
+    "subtitle": "Ubunifu na masoko kamili kutoka utafiti na chapa hadi uzinduzi na ukuaji.",
     "items": {
       "ux": {
         "title": "UI / UX Design",
-        "desc": "Wireframes, prototypes, na miingiliano iliyokamilika — iliyobuniwa kwa Figma."
+        "desc": "Wireframes, prototypes, na miingiliano iliyokamilika iliyobuniwa kwa Figma."
       },
       "logo": {
         "title": "Ubunifu wa Nembo",
@@ -110,7 +110,7 @@
   "whyHireMe": {
     "titleStart": "Kwa nini",
     "titleAccent": "Niajiri",
-    "body": "Miaka mitano katika masoko na ubunifu wa bidhaa — nimezindua bidhaa muhimu, nimeunda utambulisho wa chapa, na kutoa uzoefu wa kidijitali unaoongeza ukuaji.",
+    "body": "Miaka mitano katika masoko na ubunifu wa bidhaa nimezindua bidhaa muhimu, nimeunda utambulisho wa chapa, na kutoa uzoefu wa kidijitali unaoongeza ukuaji.",
     "stat1": "Miradi Iliyokamilika",
     "stat2": "Wateja Wenye Furaha",
     "stat3": "Miaka ya Uzoefu",
@@ -124,14 +124,14 @@
     "items": {
       "ictCards": {
         "title": "Kadi za Ufikiaji za National ICT Innovation Hub",
-        "description": "Nilibuni mfumo wa kadi za wageni kwa National ICT Innovation Hub — mpangilio wa mbele na nyuma, utambulisho wa QR, na uchapaji unaolingana na chapa kwa kitambulisho salama na cha kitaalamu.",
+        "description": "Nilibuni mfumo wa kadi za wageni kwa National ICT Innovation Hub mpangilio wa mbele na nyuma, utambulisho wa QR, na uchapaji unaolingana na chapa kwa kitambulisho salama na cha kitaalamu.",
         "tag1": "Ubunifu wa Kadi",
         "tag2": "Mfumo wa Chapa",
         "tag3": "Uchapishaji"
       },
       "wegoApp": {
         "title": "Programu Mpya ya weGo kwa KaCyber",
-        "description": "Nilibuni upya programu ya POS ya weGo inayoendeshwa kwenye vifaa vya Sunmi V2s — niliboresha mtiririko wa pochi, kuongeza salio, na utoaji tiketi kwa lugha safi ya kuona kwa makondakta na waendeshaji.",
+        "description": "Nilibuni upya programu ya POS ya weGo inayoendeshwa kwenye vifaa vya Sunmi V2s niliboresha mtiririko wa pochi, kuongeza salio, na utoaji tiketi kwa lugha safi ya kuona kwa makondakta na waendeshaji.",
         "tag1": "Ubunifu wa Bidhaa",
         "tag2": "UI/UX ya POS",
         "tag3": "Figma"
