@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { PLACEHOLDER_PHOTO } from '../data/portfolio.js';
 
 // Sample image corners to decide whether it has a transparent background.
 // If any corner pixel is fully transparent, treat the image as a cut-out.
@@ -34,7 +33,7 @@ const detectTransparency = (url) =>
 // extension — so an opaque .png (untouched photo) is treated like a JPG.
 export default function useProfilePhoto(candidates) {
   const [photo, setPhoto] = useState({
-    src: PLACEHOLDER_PHOTO,
+    src: '',
     isTransparent: false,
     isPlaceholder: true,
   });
@@ -45,7 +44,7 @@ export default function useProfilePhoto(candidates) {
       if (cancelled) return;
       if (idx >= candidates.length) {
         setPhoto({
-          src: PLACEHOLDER_PHOTO,
+          src: '',
           isTransparent: false,
           isPlaceholder: true,
         });
