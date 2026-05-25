@@ -38,6 +38,8 @@ export default function useProfilePhoto(candidates) {
     isPlaceholder: true,
   });
 
+  const candidateKey = candidates.join('|');
+
   useEffect(() => {
     let cancelled = false;
     const tryNext = (idx) => {
@@ -65,7 +67,7 @@ export default function useProfilePhoto(candidates) {
     return () => {
       cancelled = true;
     };
-  }, [candidates.join('|')]);
+  }, [candidateKey, candidates]);
 
   return photo;
 }

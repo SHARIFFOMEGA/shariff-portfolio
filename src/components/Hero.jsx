@@ -48,7 +48,7 @@ const Hero = () => {
       sx={{
         position: 'relative',
         pt: { xs: 11, md: 12 },
-        pb: { xs: 8, md: 5 },
+        pb: { xs: 8, md: 0 },
         px: { xs: 2, md: 6 },
         minHeight: { xs: 'auto', md: '100vh' },
         display: 'flex',
