@@ -235,9 +235,6 @@ const Hero = () => {
               src={photoSrc}
               alt="Shariff Nahurira"
               onError={(e) => {
-                if (e.currentTarget.src !== PLACEHOLDER_PHOTO) {
-                  e.currentTarget.src = PLACEHOLDER_PHOTO;
-                }
               }}
               sx={{
                 width: '100%',

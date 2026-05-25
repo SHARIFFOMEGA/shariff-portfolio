@@ -32,7 +32,6 @@ export const WHY_HIRE_PHOTO_CANDIDATES = [
   '/profile/why-hire-me.jpeg',
 ];
 // Fallback used while a real photo isn't yet saved.
-export const PLACEHOLDER_PHOTO = 'https://randomuser.me/api/portraits/men/32.jpg';
 
 export const EXPERIENCE = [
   { key: 'kacyber_senior', current: true },

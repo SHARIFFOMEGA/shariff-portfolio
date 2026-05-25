@@ -38,13 +38,13 @@ function App() {
       <Navbar />
       <Box component="main">
         <Hero />
+        <About />
         <Services />
+        <Projects />
         <Experience />
         <WhyHireMe />
-        <Projects />
         <Testimonials />
         <DiscussCTA />
-        <About />
         <Contact />
       </Box>
       <Footer />

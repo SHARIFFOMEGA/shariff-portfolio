@@ -28,7 +28,7 @@ import { useColorMode } from '../context/ColorModeContext.jsx';
 import { CONTACT, LOGO_SRC } from '../data/portfolio.js';
 import { palette } from '../theme/theme.js';
 
-const NAV_ITEMS = ['home', 'about', 'services', 'experience', 'projects', 'contact'];
+const NAV_ITEMS = ['home', 'about', 'services', 'projects' ,'experience' , 'contact'];
 
 const Navbar = () => {
   const theme = useTheme();
