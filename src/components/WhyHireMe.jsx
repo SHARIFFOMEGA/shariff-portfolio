@@ -177,8 +177,8 @@ const WhyHireMe = () => {
               maxWidth: 420,
             }}
           >
-            <Stat value="40+" label={t('whyHireMe.stat1')} />
-            <Stat value="7+" label={t('whyHireMe.stat2')} />
+            <Stat value="20+" label={t('whyHireMe.stat1')} />
+            <Stat value="10+" label={t('whyHireMe.stat2')} />
           </Box>
 
           <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2}>
