@@ -13,8 +13,8 @@ import { useTranslation } from 'react-i18next';
 import SectionTitle from './SectionTitle.jsx';
 
 const LANG_LEVELS = [
-  { key: 'english', level: 95 },
-  { key: 'rukiga', level: 90 },
+  { key: 'english', level: 100 },
+  { key: 'rukiga', level: 100 },
   { key: 'luganda', level: 80 },
   { key: 'swahili', level: 60 },
 ];
