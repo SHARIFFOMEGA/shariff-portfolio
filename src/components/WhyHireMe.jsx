@@ -1,5 +1,4 @@
 import { Box, Typography, Button, Stack, useTheme } from '@mui/material';
-import DownloadIcon from '@mui/icons-material/FileDownloadOutlined';
 import { useTranslation } from 'react-i18next';
 import { CONTACT, WHY_HIRE_PHOTO_CANDIDATES } from '../data/portfolio.js';
 import { palette } from '../theme/theme.js';
@@ -203,28 +202,6 @@ const WhyHireMe = () => {
               }}
             >
               {t('nav.hireMe')}
-            </Button>
-            <Button
-              variant="contained"
-              size="large"
-              href="/Shariff-Nahurira-Resume.pdf"
-              download="Shariff-Nahurira-Resume.pdf"
-              startIcon={<DownloadIcon />}
-              sx={{
-                backgroundColor: palette.ORANGE,
-                color: 'white',
-                px: 4,
-                py: 1.4,
-                fontSize: '1rem',
-                fontWeight: 700,
-                boxShadow: 'none',
-                '&:hover': {
-                  backgroundColor: palette.ORANGE_DEEP,
-                  boxShadow: 'none',
-                },
-              }}
-            >
-              {t('whyHireMe.downloadResume')}
             </Button>
           </Stack>
         </Box>
